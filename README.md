@@ -36,13 +36,13 @@ The **get_next_line** project challenges developers to build a function capable 
 
 The project is composed of several key files:
 
-###📜 Core Files
-get_next_line.c: The primary function that reads from a file descriptor and returns the next line of text.
-get_next_line_utils.c: Utility functions for memory management and string manipulation utilized by get_next_line.
-###📜 Bonus Files
-get_next_line_bonus.c: An extension of the core functionality designed to handle multiple file descriptors. This version efficiently manages reading operations from various sources simultaneously.
-get_next_line_utils_bonus.c: Enhanced utility functions that support the bonus features, including mechanisms for managing static variables within the project to preserve state across multiple invocations.
----
+### 📜 Core Files
+- **get_next_line.c**: The primary function that reads from a file descriptor and returns the next line of text.
+- **get_next_line_utils.c**: Utility functions for memory management and string manipulation utilized by `get_next_line`.
+
+### 📜 Bonus Files
+- **get_next_line_bonus.c**: An extension of the core functionality designed to handle multiple file descriptors. This version efficiently manages reading operations from various sources simultaneously.
+- **get_next_line_utils_bonus.c**: Enhanced utility functions that support the bonus features, including mechanisms for managing static variables within the project to preserve state across multiple invocations.
 
 ## 🔍 Key Concepts
 
