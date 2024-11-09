@@ -78,13 +78,9 @@ I achieved **125/100** on this project, mastering file descriptor handling, dyna
 
 ---
 
-To add a concise and professional **Compilation** section for your GitHub **get_next_line** repository, here’s a streamlined version with the essential commands and instructions:
-
----
-
 ## 🛠️ Compilation
 
-To compile **get_next_line** without a `Makefile`, use these commands. Adjust the buffer size as needed (example uses 42).
+To compile **get_next_line**  use these commands. Adjust the buffer size as needed (example uses 42).
 
 ### Standard Version
 
